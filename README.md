@@ -6,7 +6,6 @@ Built with **Node.js, Express, Prisma, PostgreSQL, and Redis**.
 
 ## ✨ Features  
 ✅ **Patient Management** – CRUD operations with filtering, search, and pagination  
-✅ **Doctor–Patient Relationship** – one-to-many schema modeling  
 ✅ **Authentication & Authorization** – JWT-based auth with bcrypt password hashing  
 ✅ **Appointment Scheduling** – cursor-based pagination for millions of rows  
 ✅ **Performance Optimization** – database indexing + Redis caching  
